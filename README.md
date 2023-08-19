@@ -1,6 +1,16 @@
 <h1 align="center">HELLO THERE 👋 PARTH HERE</h1>
 <h3 align="center">trying to get better here 🫡</h3>
 
+- 👋 Hey there, I'm Parth bangoria, a student exploring the world of coding! [.](.)
+
+- 💻 Learning web devlopement with enthusiasm **nodejs, backend webdevlopement**
+
+- 🚀 Embarking on an exciting coding journey [.](.)
+
+- 🤝 I’m looking for help with [.](.)
+
+- 🌟 Turning ideas into code, one project at a time **.**
+
 - 📫 How to reach me **parthbangoria1199@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
